@@ -34,16 +34,16 @@ services:
       - default
     restart: unless-stopped
 
-  # minioclient:
-  #   build:
-  #     context: minioclient
-  #   depends_on:
-  #     - minio
-  #   environment:
-  #     - S3_ACCESS_KEY=${STORAGE_S3_KEY}
-  #     - S3_SECRET_KEY=${STORAGE_S3_SECRET}
-  #     - S3_BUCKET_NAME=${STORAGE_S3_BUCKET}
-  #   restart: on-failure
+  minioclient:
+    build:
+      context: minioclient
+    depends_on:
+      - minio
+    environment:
+      - S3_ACCESS_KEY=${STORAGE_S3_KEY}
+      - S3_SECRET_KEY=${STORAGE_S3_SECRET}
+      - S3_BUCKET_NAME=${STORAGE_S3_BUCKET}
+    restart: on-failure
 
 networks:
   geodashboard_data:
