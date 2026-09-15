@@ -1,0 +1,842 @@
+{
+  "data": {
+    "boq": {
+      "material": {
+        "group_name": "Material",
+        "group_total": 550144630,
+        "groups": [
+          {
+            "name": "Feeder Material",
+            "rows": [
+              {
+                "code": "M-FO-24C",
+                "uom": "m",
+                "qty": 0,
+                "price": 4750,
+                "total": 0,
+                "description": "Material: Cable Feeder FO 24 Core ADSS"
+              },
+              {
+                "code": "M-FO-48C",
+                "uom": "m",
+                "qty": 23945,
+                "price": 6350,
+                "total": 152050750,
+                "description": "Material: Cable Feeder FO 48 Core ADSS"
+              },
+              {
+                "code": "M-FO-96C",
+                "uom": "m",
+                "qty": 0,
+                "price": 11400,
+                "total": 0,
+                "description": "Material: Cable Feeder FO 96 Core ADSS"
+              },
+              {
+                "code": "M-FO-144C",
+                "uom": "m",
+                "qty": 0,
+                "price": 15950,
+                "total": 0,
+                "description": "Material: Cable Feeder FO 144 Core ADSS"
+              },
+              {
+                "code": "M-FO-288C",
+                "uom": "m",
+                "qty": 0,
+                "price": 35000,
+                "total": 0,
+                "description": "Material: Cable Feeder FO 288 Core ADSS"
+              },
+              {
+                "code": "T6",
+                "uom": "pcs",
+                "qty": 117,
+                "price": 463000,
+                "total": 54171000,
+                "description": "Material: New Pole 6 (2,5\"/2,5mm)"
+              },
+              {
+                "code": "T7",
+                "uom": "pcs",
+                "qty": 0,
+                "price": 649000,
+                "total": 0,
+                "description": "Material: New Pole 7 (3\"/2,5\"/2,5mm)"
+              },
+              {
+                "code": "T9",
+                "uom": "pcs",
+                "qty": 166,
+                "price": 925000,
+                "total": 153550000,
+                "description": "Material: New Pole 9 (4\"/3\"/2,5mm)"
+              },
+              {
+                "code": "M-SC-F-25/50",
+                "uom": "pcs",
+                "qty": 0,
+                "price": 14500,
+                "total": 0,
+                "description": "Material: Strengh Clamp Feeder 25/50 (Kabel ADSS 24c)"
+              },
+              {
+                "code": "M-SC-F-50/70",
+                "uom": "pcs",
+                "qty": 1198,
+                "price": 17500,
+                "total": 20965000,
+                "description": "Material: Strengh Clamp Feeder 50/70 (Kabel ADSS 48c dan 96c)"
+              },
+              {
+                "code": "M-SC-F-70/90",
+                "uom": "pcs",
+                "qty": 0,
+                "price": 30000,
+                "total": 0,
+                "description": "Material: Strengh Clamp Feeder 70/90 (Kabel ADSS 144c dan 288c)"
+              },
+              {
+                "code": "M-CL-F-24C+",
+                "uom": "pcs",
+                "qty": 0,
+                "price": 300000,
+                "total": 0,
+                "description": "Material: Closure 24C (Komplit)"
+              },
+              {
+                "code": "M-CL-F-48C+",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 350000,
+                "total": 350000,
+                "description": "Material: Closure 48C (Komplit)"
+              },
+              {
+                "code": "M-CL-F-96C+",
+                "uom": "pcs",
+                "qty": 0,
+                "price": 400000,
+                "total": 0,
+                "description": "Material: Closure 96C (Komplit)"
+              },
+              {
+                "code": "M-CL-F-144C+",
+                "uom": "set",
+                "qty": 0,
+                "price": 675000,
+                "total": 0,
+                "description": "Material: Closure 144C (Komplit)"
+              },
+              {
+                "code": "M-CL-F-288C+",
+                "uom": "set",
+                "qty": 0,
+                "price": 1200000,
+                "total": 0,
+                "description": "Material: Closure 288C (Komplit)"
+              },
+              {
+                "code": "M-XF-F-80X80",
+                "uom": "pcs",
+                "qty": 23,
+                "price": 45000,
+                "total": 1035000,
+                "description": "Material: X Frame 80 X 80"
+              },
+              {
+                "code": "M-OTB-F-48SLC-1U+",
+                "uom": "set",
+                "qty": 1,
+                "price": 630000,
+                "total": 630000,
+                "description": "Material: OTB 48 Core Sliding LC-UPC 1U' (Komplit)"
+              },
+              {
+                "code": "M-OTB-F-96SLC-2U+",
+                "uom": "set",
+                "qty": 0,
+                "price": 1035000,
+                "total": 0,
+                "description": "Material: OTB 96 Core Sliding LC-UPC 2U' (Komplit)"
+              },
+              {
+                "code": "M-OTB-F-144SLC-4U+",
+                "uom": "set",
+                "qty": 0,
+                "price": 4500000,
+                "total": 0,
+                "description": "Material: OTB 144 Core Sliding LC-UPC 4U' (Komplit)"
+              },
+              {
+                "code": "M-OTB-F-288SLC-6U+",
+                "uom": "set",
+                "qty": 0,
+                "price": 6500000,
+                "total": 0,
+                "description": "Material: OTB 288 Core Sliding LC-UPC 6U' (Komplit)"
+              },
+              {
+                "code": "M-PC-F-SMSCLC/U-DX3M",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 30000,
+                "total": 30000,
+                "description": "Material: Patchcord SC-LC/UPC Duplex 3 Meter"
+              },
+              {
+                "code": "M-PC-F-SMSCLC/U-DX5M",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 40000,
+                "total": 40000,
+                "description": "Material: Patchcord SC-LC UPC Duplex 5 meter"
+              },
+              {
+                "code": "M-PC-F-SMSCLC/U-DX10M",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 49000,
+                "total": 49000,
+                "description": "Material: Patchcord SC/UPC - LC/UPC Duplex 10 meter"
+              },
+              {
+                "code": "M-HDPE-F-40/33MM",
+                "uom": "m",
+                "qty": 1,
+                "price": 10500,
+                "total": 10500,
+                "description": "Material: Pipa HDPE 40/33 mm"
+              }
+            ],
+            "total": 382881250
+          },
+          {
+            "name": "Distribution Material",
+            "rows": [
+              {
+                "code": "M-PR-D-50M",
+                "uom": "roll",
+                "qty": 56,
+                "price": 39500,
+                "total": 2212000,
+                "description": "Material: Cable Distribution Precon 50 meter"
+              },
+              {
+                "code": "M-PR-D-100M",
+                "uom": "roll",
+                "qty": 21,
+                "price": 64500,
+                "total": 1354500,
+                "description": "Material: Cable Distribution Precon 100 meter"
+              },
+              {
+                "code": "M-PR-D-150M",
+                "uom": "roll",
+                "qty": 8,
+                "price": 82230,
+                "total": 657840,
+                "description": "Material: Cable Distribution Precon 150 meter"
+              },
+              {
+                "code": "M-ODC-D-8SCUPC+",
+                "uom": "set",
+                "qty": 32,
+                "price": 100000,
+                "total": 3200000,
+                "description": "Material: ODC 8 Port - Complete Inc Splitter 1 : 4 Modular, Pigtail Outdoor SC/UPC 1.5m & Barrel/Adapter (5Pcs) SC/UPC"
+              },
+              {
+                "code": "M-ODP-D-8SCUPC+",
+                "uom": "pcs",
+                "qty": 117,
+                "price": 100000,
+                "total": 11700000,
+                "description": "Material: ODP 8 Port - Complete Inc Splitter 1 : 8 Modular SC/UPC"
+              },
+              {
+                "code": "M-PC-D-SMSCSC/U-SX3MOUT",
+                "uom": "pcs",
+                "qty": 32,
+                "price": 20200,
+                "total": 646400,
+                "description": "Material: Distribution Patchcord SC-SC/UPC Simplex 3 Meter Outdoor"
+              },
+              {
+                "code": "M-CL-D-DW",
+                "uom": "pcs",
+                "qty": 244,
+                "price": 3500,
+                "total": 854000,
+                "description": "Material: Distribution Clamp S Kabel DW - Distribution"
+              },
+              {
+                "code": "M-XF-D-40X40",
+                "uom": "pcs",
+                "qty": 149,
+                "price": 35000,
+                "total": 5215000,
+                "description": "Material: X Frame 40 X 40 - Distribution"
+              },
+              {
+                "code": "M-PSTR-D",
+                "uom": "pcs",
+                "qty": 566,
+                "price": 14500,
+                "total": 8207000,
+                "description": "Material: Clamp Ring"
+              },
+              {
+                "code": "M-CL-F-24C+(Mini)",
+                "uom": "pcs",
+                "qty": 32,
+                "price": 65000,
+                "total": 2080000,
+                "description": "Material: Closure Mini 24C (Komplit)"
+              }
+            ],
+            "total": 36126740
+          },
+          {
+            "name": "Accessories Support",
+            "rows": [
+              {
+                "code": "M-SB-F-50M",
+                "uom": "roll",
+                "qty": 356,
+                "price": 135000,
+                "total": 48060000,
+                "description": "Material: Stainless Belt 50 M"
+              },
+              {
+                "code": "M-SB-F-XXX",
+                "uom": "pcs",
+                "qty": 35600,
+                "price": 500,
+                "total": 17800000,
+                "description": "Material: Stoping Buckler"
+              }
+            ],
+            "total": 65860000
+          },
+          {
+            "name": "IKR Material",
+            "rows": [
+              {
+                "code": "M-PR-IKR-50M",
+                "uom": "roll",
+                "qty": 363,
+                "price": 39500,
+                "total": 14338500,
+                "description": "Material: Cable IKR Precon 50 meter"
+              },
+              {
+                "code": "M-PR-IKR-100M",
+                "uom": "roll",
+                "qty": 297,
+                "price": 64500,
+                "total": 19156500,
+                "description": "Material: Cable IKR Precon 100 meter"
+              },
+              {
+                "code": "M-PR-IKR-150M",
+                "uom": "roll",
+                "qty": 268,
+                "price": 82230,
+                "total": 22037640,
+                "description": "Material: Cable IKR Precon 150 meter"
+              },
+              {
+                "code": "M-CL-IKR-DW",
+                "uom": "pcs",
+                "qty": 1856,
+                "price": 3500,
+                "total": 6496000,
+                "description": "Material: IKR Clamp S Kabel DW - IKR"
+              },
+              {
+                "code": "M-CH-IKR-DW",
+                "uom": "pcs",
+                "qty": 928,
+                "price": 3500,
+                "total": 3248000,
+                "description": "Material: IKR Clamp Hook Kabel DW - IKR"
+              }
+            ],
+            "total": 65276640
+          }
+        ],
+        "description": {
+          "homepass": 928,
+          "panjang_kabel": 23945,
+          "total_tiang": 283
+        },
+        "summary": {
+          "cost_material": 550144630,
+          "cost_service_homepass": 274179500,
+          "cost_service_connect": 92800000,
+          "total_cost": 917124130,
+          "cpa_material": 592828.27,
+          "cpa_service_homepass": 295452.05,
+          "cpa_service_home_connect": 100000,
+          "total_cpa": 988280.31,
+          "material_homepass": 550144630,
+          "material_home_connect": 65276640,
+          "material_jia": 152050750,
+          "material_lda": 398093880
+        }
+      },
+      "homepass": {
+        "group_name": "Homepass",
+        "group_total": 274179500,
+        "groups": [
+          {
+            "name": "Feeder Services",
+            "rows": [
+              {
+                "code": "S-PC-F-24C",
+                "uom": "m",
+                "qty": 0,
+                "price": 3800,
+                "total": 0,
+                "description": "Service: Penarikan Kabel 24 core - Feeder"
+              },
+              {
+                "code": "S-PC-F-48C",
+                "uom": "m",
+                "qty": 23945,
+                "price": 4000,
+                "total": 95780000,
+                "description": "Service: Penarikan Kabel 48 core - Feeder"
+              },
+              {
+                "code": "S-PC-F-96C",
+                "uom": "m",
+                "qty": 0,
+                "price": 4500,
+                "total": 0,
+                "description": "Service: Penarikan Kabel 96 core - Feeder"
+              },
+              {
+                "code": "S-PC-F-144C",
+                "uom": "m",
+                "qty": 0,
+                "price": 5500,
+                "total": 0,
+                "description": "Service: Penarikan Kabel 144 core - Feeder"
+              },
+              {
+                "code": "S-PC-F-288C",
+                "uom": "m",
+                "qty": 0,
+                "price": 6500,
+                "total": 0,
+                "description": "Service: Penarikan Kabel 288 core - Feeder"
+              },
+              {
+                "code": "S-DP-F-6M",
+                "uom": "btg",
+                "qty": 117,
+                "price": 220000,
+                "total": 25740000,
+                "description": "Service: Pemasangan Tiang 6m Include Cat Labeling dan Material Cor - Feeder"
+              },
+              {
+                "code": "S-DP-F-7M",
+                "uom": "btg",
+                "qty": 0,
+                "price": 270000,
+                "total": 0,
+                "description": "Service: Pemasangan Tiang 7m Include Cat Labeling dan Material Cor - Feeder"
+              },
+              {
+                "code": "S-DP-F-9M",
+                "uom": "btg",
+                "qty": 166,
+                "price": 345000,
+                "total": 57270000,
+                "description": "Service: Pemasangan Tiang 9m Include Cat Labeling dan Material Cor - Feeder"
+              },
+              {
+                "code": "S-XF-F",
+                "uom": "unit",
+                "qty": 23,
+                "price": 60000,
+                "total": 1380000,
+                "description": "Service: Pemasangan Xframe/ Slack Hanger - Feeder"
+              },
+              {
+                "code": "S-ACC-F",
+                "uom": "set",
+                "qty": 1198,
+                "price": 15000,
+                "total": 17970000,
+                "description": "Service: pemasangan aksesoris KU - Feeder"
+              },
+              {
+                "code": "S-IOTB-F-48C+",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 100000,
+                "total": 100000,
+                "description": "Service: Pemasangan OTB 48 Core Lebih Include Labeling - Feeder"
+              },
+              {
+                "code": "S-SOTB-F-48C+",
+                "uom": "core",
+                "qty": 48,
+                "price": 40000,
+                "total": 1920000,
+                "description": "Service: Penyambungan OTB 48 core atau lebih Include Labeling (Berikut Testing OTDR & OPM) - Feeder"
+              },
+              {
+                "code": "S-ICL-F-48C+",
+                "uom": "titik",
+                "qty": 1,
+                "price": 100000,
+                "total": 100000,
+                "description": "Service: Pemasangan Closure 48 Core Lebih Include Labeling - Feeder"
+              },
+              {
+                "code": "S-SCL-F-48+",
+                "uom": "core",
+                "qty": 24,
+                "price": 40000,
+                "total": 960000,
+                "description": "Service: Penyambungan Closure 48 core atau lebih Include Labeling (Berikut Testing OTDR & OPM) - Feeder"
+              }
+            ],
+            "total": 201220000
+          },
+          {
+            "name": "Distribution Services",
+            "rows": [
+              {
+                "code": "S-PC-D-1/2C",
+                "uom": "m",
+                "qty": 6100,
+                "price": 1650,
+                "total": 10065000,
+                "description": "Service: Penarikan Kabel 1 dan 2 core - Distribution"
+              },
+              {
+                "code": "S-IODC-D-8PT+",
+                "uom": "lot",
+                "qty": 32,
+                "price": 375000,
+                "total": 12000000,
+                "description": "Service: Pemasangan Closure dan ODC 8 Port Termasuk Splicing dan jumper kabel (Include Aksesories) - Distribution"
+              },
+              {
+                "code": "S-IODP-D",
+                "uom": "unit",
+                "qty": 117,
+                "price": 100000,
+                "total": 11700000,
+                "description": "Service: Pemasangan dan Instalasi ODP Menggunakan Precon Tanpa Splicing Berikut Labeling (Include Aksesories) - Distribution"
+              },
+              {
+                "code": "S-XF-D",
+                "uom": "unit",
+                "qty": 149,
+                "price": 60000,
+                "total": 8940000,
+                "description": "Service: Pemasangan Xframe/ Slack Hanger - Distribution"
+              },
+              {
+                "code": "S-ACC-D",
+                "uom": "set",
+                "qty": 810,
+                "price": 15000,
+                "total": 12150000,
+                "description": "Service: pemasangan aksesoris KU - Distribution"
+              }
+            ],
+            "total": 54855000
+          },
+          {
+            "name": "Add On Services",
+            "rows": [
+              {
+                "code": "S-SND-AO",
+                "uom": "hp",
+                "qty": 928,
+                "price": 3000,
+                "total": 2784000,
+                "description": "Service: Survey & Design (Inc. KMZ RAB APD DRM)"
+              },
+              {
+                "code": "S-SPMT-AO",
+                "uom": "hp",
+                "qty": 928,
+                "price": 5000,
+                "total": 4640000,
+                "description": "Service: Permit Community"
+              },
+              {
+                "code": "S-PMT-AO-CND",
+                "uom": "hp",
+                "qty": 1,
+                "price": 30000,
+                "total": 30000,
+                "description": "Service: Biaya Permit / Donasi (Bersifat Pengajuan)"
+              },
+              {
+                "code": "S-AQS-AO",
+                "uom": "hp",
+                "qty": 1,
+                "price": 35000,
+                "total": 35000,
+                "description": "Service: Biaya Sales Akusisi"
+              },
+              {
+                "code": "S-TRP-AO",
+                "uom": "lot",
+                "qty": 1,
+                "price": 2250000,
+                "total": 2250000,
+                "description": "Service: Transportation , Acomodation"
+              },
+              {
+                "code": "S-HB-AO",
+                "uom": "lot",
+                "qty": 1,
+                "price": 2000000,
+                "total": 2000000,
+                "description": "Service: Homebase & Warehouse Termasuk Keamanan"
+              },
+              {
+                "code": "S-DOC-AO",
+                "uom": "lot",
+                "qty": 1,
+                "price": 1000000,
+                "total": 1000000,
+                "description": "Service: Dokumentasi (Termasuk Pengetesan OTDR, Cek Redaman ODP dan ODC)"
+              },
+              {
+                "code": "S-OPTRCND-AO-0.4",
+                "uom": "m",
+                "qty": 1,
+                "price": 22000,
+                "total": 22000,
+                "description": "Service: Open Trench Berikut Perbaikan, Pemasangan Warning Tape dan Marker Kedalaman 0.4 meter (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "S-SRCND-AO",
+                "uom": "m",
+                "qty": 1,
+                "price": 3000,
+                "total": 3000,
+                "description": "Service: Stick Roding (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "S-IPCLCND-AO",
+                "uom": "m",
+                "qty": 1,
+                "price": 5000,
+                "total": 5000,
+                "description": "Service: Pemasangan Pipa Clipsal (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokumen ATP)"
+              },
+              {
+                "code": "S-IFCCND-AO",
+                "uom": "m",
+                "qty": 1,
+                "price": 2000,
+                "total": 2000,
+                "description": "Service: Pemasangan Flexible conduit"
+              },
+              {
+                "code": "S-IPVCCND-AO",
+                "uom": "m",
+                "qty": 1,
+                "price": 2000,
+                "total": 2000,
+                "description": "Service: PVC Conduit 20 mm (Putih) (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokumen ATP)"
+              },
+              {
+                "code": "S-IPRBSCND-AO",
+                "uom": "lot",
+                "qty": 1,
+                "price": 4000000,
+                "total": 4000000,
+                "description": "Service: Pembuatan Pondasi RBS 2x2x1 meter ( Include Material ) (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokumen ATP)"
+              },
+              {
+                "code": "S-HDPE-AO-40/33/1P",
+                "uom": "m",
+                "qty": 1,
+                "price": 3000,
+                "total": 3000,
+                "description": "Service: Pipa HDPE 40/33 mm 1 pipa - Feeder"
+              },
+              {
+                "code": "S-HDPE-AO-40/33/2P",
+                "uom": "m",
+                "qty": 1,
+                "price": 3500,
+                "total": 3500,
+                "description": "Service: Pipa HDPE 40/33 mm 2 pipa - Feeder"
+              },
+              {
+                "code": "S-HDPE-AO-50/42/1P",
+                "uom": "m",
+                "qty": 1,
+                "price": 4000,
+                "total": 4000,
+                "description": "Service: Pipa HDPE 50/42 mm 1 pipa - Feeder"
+              },
+              {
+                "code": "S-HDPE-AO-50/42/2P",
+                "uom": "m",
+                "qty": 1,
+                "price": 4500,
+                "total": 4500,
+                "description": "Service: Pipa HDPE 50/42 mm 2 pipa - Feeder"
+              },
+              {
+                "code": "S-BC-AO-1.5-40/33",
+                "uom": "m",
+                "qty": 1,
+                "price": 150000,
+                "total": 150000,
+                "description": "Service: Boring Crossing kedalaman 1,5 meter HDPE 40/33 "
+              }
+            ],
+            "total": 16938000
+          },
+          {
+            "name": "Add On Material",
+            "rows": [
+              {
+                "code": "M-PL-AO-9M",
+                "uom": "btg",
+                "qty": 1,
+                "price": 800000,
+                "total": 800000,
+                "description": "Material: New Pole 9 (4\"/3\"/2,3mm) - Add On (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "M-HDPECND-AO-40/30MM",
+                "uom": "m",
+                "qty": 1,
+                "price": 10500,
+                "total": 10500,
+                "description": "Material: Pipa HDPE 40/33 mm (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "M-PCLCND-AO-4M/2",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 25000,
+                "total": 25000,
+                "description": "Material: Pipa Clipsal (4 meter / Batang) 2\" (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "M-FCCND-AO-W",
+                "uom": "m",
+                "qty": 1,
+                "price": 13000,
+                "total": 13000,
+                "description": "Material: Flexible Conduit Putih (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "M-SPCND-AO",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 2000,
+                "total": 2000,
+                "description": "Material: Shock Pipa (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "M-CPCND-AO",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 1000,
+                "total": 1000,
+                "description": "Material: Clamp Pipa (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "M-FSCND-AO",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 4000,
+                "total": 4000,
+                "description": "Material: Fisher (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "M-PGLCND-AO-6M/2IN",
+                "uom": "btg",
+                "qty": 1,
+                "price": 300000,
+                "total": 300000,
+                "description": "Material: Pipa Galvanise 2\" 6m (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "M-CGLCND-AO-2IN",
+                "uom": "unit",
+                "qty": 1,
+                "price": 8000,
+                "total": 8000,
+                "description": "Material: Clamp Galvanise 2\" (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "M-DYBCND-AO-10MM",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 1500,
+                "total": 1500,
+                "description": "Material: Dynabolt 10 mm (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              },
+              {
+                "code": "M-DYBCND-AO-12MM",
+                "uom": "pcs",
+                "qty": 1,
+                "price": 1500,
+                "total": 1500,
+                "description": "Material: Dynabolt 12 mm (Qty Sesuai Aktual di lampirkan BOQ Aktual, BA dan Evidence di Dokument ATP)"
+              }
+            ],
+            "total": 1166500
+          }
+        ],
+        "summary": {
+          "homepass": 928,
+          "service_homepass": 274179500,
+          "cpa_homepass": 295452.05,
+          "site": 1,
+          "timeline": 1,
+          "term_of_payment": 1
+        }
+      },
+      "homeconnect": {
+        "group_name": "Home Connect",
+        "group_total": 92800000,
+        "groups": [
+          {
+            "name": "IKR Services",
+            "rows": [
+              {
+                "code": "S-PC-IKR",
+                "uom": "lot",
+                "qty": 928,
+                "price": 100000,
+                "total": 92800000,
+                "description": "Service: Tarik IKR All in (inc. Tools, Clamp Tembok, Kabel Ties, Spiral, sales)"
+              }
+            ],
+            "total": 92800000
+          }
+        ],
+        "summary": {
+          "home_connect": 928,
+          "service_home_connect": 92800000,
+          "cpa_home_connect": 100000,
+          "site": 1,
+          "timeline": 1,
+          "term_of_payment": 1
+        }
+      }
+    },
+    "bom": null
+  }
+}

@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
+/* import the required styles */
+@import "@vue-flow/core/dist/style.css";
+
+/* import the default theme (optional) */
+@import "@vue-flow/core/dist/theme-default.css";
+
+@import "@vue-flow/controls/dist/style.css";
+@import "@vue-flow/minimap/dist/style.css";
+
+body {
+  font-family: "raleway", sans-serif;
+}
+
+.maplibregl-ctrl-top-right {
+  display: none;
+}
+
+.maplibregl-popup-anchor-bottom .maplibregl-popup-tip {
+  --tw-bg-opacity: 1;
+  border-top-color: rgb(35 34 33 / var(--tw-bg-opacity)) !important;
+}
+.maplibregl-popup-anchor-bottom-right .maplibregl-popup-tip {
+  --tw-bg-opacity: 1;
+  border-top-color: rgb(35 34 33 / var(--tw-bg-opacity)) !important;
+}
+.maplibregl-popup-anchor-bottom-left .maplibregl-popup-tip {
+  --tw-bg-opacity: 1;
+  border-top-color: rgb(35 34 33 / var(--tw-bg-opacity)) !important;
+}
+.maplibregl-popup-anchor-top .maplibregl-popup-tip {
+  --tw-bg-opacity: 1;
+  border-bottom-color: rgb(35 34 33 / var(--tw-bg-opacity)) !important;
+}
+.maplibregl-popup-anchor-top-right .maplibregl-popup-tip {
+  --tw-bg-opacity: 1;
+  border-bottom-color: rgb(35 34 33 / var(--tw-bg-opacity)) !important;
+}
+.maplibregl-popup-anchor-top-left .maplibregl-popup-tip {
+  --tw-bg-opacity: 1;
+  border-bottom-color: rgb(35 34 33 / var(--tw-bg-opacity)) !important;
+}
+.maplibregl-popup-anchor-right .maplibregl-popup-tip {
+  --tw-bg-opacity: 1;
+  border-left-color: rgb(35 34 33 / var(--tw-bg-opacity)) !important;
+}
+.maplibregl-popup-anchor-left .maplibregl-popup-tip {
+  --tw-bg-opacity: 1;
+  border-right-color: rgb(35 34 33 / var(--tw-bg-opacity)) !important;
+}
+
+/* Popup entrance animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.geod-popup .maplibregl-popup-content {
+  @apply p-0;
+  @apply rounded-md;
+  animation: fadeIn 0.3s ease-out forwards; /* Apply the entrance animation */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.hide-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Hide scrollbar track */
+::-webkit-scrollbar {
+  width: 4px; /* Set the width of the scrollbar */
+}
+
+/* Horizontal Scrollbar */
+::-webkit-scrollbar:horizontal {
+  height: 4px; /* Set the height of the horizontal scrollbar */
+  width: 4px; /* Set the height of the horizontal scrollbar */
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+  @apply bg-grey-600 rounded-lg h-7;
+}
+
+/* Hide Arrows From Input Number */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}

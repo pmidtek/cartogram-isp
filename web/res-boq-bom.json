@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": 15,
+      "price": "500000.00",
+      "asset_type_id": {
+        "id": 1,
+        "name": "ONT"
+      }
+    },
+    {
+      "id": 16,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 2,
+        "name": "ODP"
+      }
+    },
+    {
+      "id": 17,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 3,
+        "name": "ODC"
+      }
+    },
+    {
+      "id": 18,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 4,
+        "name": "OLT"
+      }
+    },
+    {
+      "id": 19,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 5,
+        "name": "OTB"
+      }
+    },
+    {
+      "id": 20,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 6,
+        "name": "Router MPLS"
+      }
+    },
+    {
+      "id": 21,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 7,
+        "name": "Router AGG"
+      }
+    },
+    {
+      "id": 22,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 8,
+        "name": "Router DWDM"
+      }
+    },
+    {
+      "id": 23,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 9,
+        "name": "Router Switch"
+      }
+    },
+    {
+      "id": 24,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 10,
+        "name": "Router PE"
+      }
+    },
+    {
+      "id": 25,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 11,
+        "name": "Router P"
+      }
+    },
+    {
+      "id": 26,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 12,
+        "name": "Router BNG"
+      }
+    },
+    {
+      "id": 27,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 13,
+        "name": "Router Gateway"
+      }
+    },
+    {
+      "id": 28,
+      "price": "1000000.00",
+      "asset_type_id": {
+        "id": 22,
+        "name": "POLE"
+      }
+    }
+  ]
+}

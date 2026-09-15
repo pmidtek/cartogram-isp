@@ -1,0 +1,5 @@
+.env*
+!.env.example
+minio/data
+postgis/data
+postgis/backup

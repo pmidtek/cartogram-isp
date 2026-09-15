@@ -1,0 +1,18 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "tailwindCSS.experimental.configFile": "web/tailwind.config.ts",
+  "tailwindCSS.includeLanguages": {
+    "vue": "html",
+    "javascript": "javascript",
+    "typescript": "javascript"
+  },
+  "tailwindCSS.classAttributes": ["class", "className", "ngClass", "ui"],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}

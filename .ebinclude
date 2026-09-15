@@ -1,0 +1,9 @@
+cache/
+manager/
+server/
+extensions/dist/
+extensions/Dockerfile
+web/.output/
+web/Dockerfile
+docker-compose.yml
+fastapi/
