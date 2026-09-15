@@ -46,8 +46,12 @@ export default defineNuxtConfig({
     },
   },
 
-  alias: {
-    fs: require.resolve("rollup-plugin-node-builtins"),
+  vite: {
+    resolve: {
+      alias: {
+        fs: require.resolve("./shims/empty-fs.cjs"),
+      },
+    },
   },
 
   routeRules: {
@@ -57,3 +61,4 @@ export default defineNuxtConfig({
 
   compatibilityDate: "2026-05-02",
 });
+
