@@ -12,6 +12,7 @@ __pycache__
 hls/*
 !hls/readme.txt
 .claude
+.cert
 
 data/*
 !data/.gitkeep
