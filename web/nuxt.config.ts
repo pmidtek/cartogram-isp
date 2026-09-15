@@ -54,6 +54,13 @@ export default defineNuxtConfig({
         },
       },
     },
+    $server: {
+      resolve: {
+        alias: {
+          fs: require.resolve("./shims/empty-fs.cjs"),
+        },
+      },
+    },
   },
 
   routeRules: {
