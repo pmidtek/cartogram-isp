@@ -46,21 +46,8 @@ export default defineNuxtConfig({
     },
   },
 
-  vite: {
-    $client: {
-      resolve: {
-        alias: {
-          fs: require.resolve("./shims/empty-fs.cjs"),
-        },
-      },
-    },
-    $server: {
-      resolve: {
-        alias: {
-          fs: require.resolve("./shims/empty-fs.cjs"),
-        },
-      },
-    },
+  alias: {
+    fs: require.resolve("rollup-plugin-node-builtins"),
   },
 
   routeRules: {
