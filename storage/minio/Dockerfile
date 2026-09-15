@@ -1,1 +1,1 @@
-FROM minio/minio:RELEASE.2024-08-29T01-40-52Z
+FROM quay.io/minio/minio:RELEASE.2024-08-29T01-40-52Z
